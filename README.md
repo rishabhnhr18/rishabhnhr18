@@ -17,8 +17,11 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 
 - 📫 How to reach me **rishabhnahar18@gmail.com**
   
-  ## 📝 Connect With Me
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-nahar-240422229/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.comRishabhNhr18)
+## 📫 Connect With Me
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-nahar-240422229/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.comRishabhNhr18)[![Medium](https://img.shields.io/badge/Medium-black.svg?logo=medium&logoColor=white)](https://medium.com/@rishabhnahar18)
+
+[![Gmail](https://img.shields.io/badge/Gmail-black.svg?logo=gmail&logoColor=white)](mailto:rishabh.nahar18@gmail.com)
+
 
 ## 📝 Recent Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
