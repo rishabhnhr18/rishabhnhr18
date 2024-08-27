@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Rishabh Nahar <img align =right, width="50", src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"</h1>
 <h3 align="center">A Passionate Software Developer! Loves to Code </></h3>
-
-
-
 # Summary 📋
 I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, also worked on Flutter and Firebase which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on Machine Learning, DSA, Problem Solving, MERN Stack Development.
 
@@ -33,7 +30,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=dark&hide_border=true&show_icons=true&title_color=blue&font_color=blue&&include_all_commits=false&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&theme=dark&hide_border=true)<br/>
@@ -41,7 +38,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 </center>
 
 
-# 📫 Connect With Me
+## Connect With Me 📫
 <a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/RishabhNhr18" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> <a href="mailto:rishabhnahar18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://medium.com/@rishabhnahar18" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -49,6 +46,6 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <a href="https://leetcode.com/u/rishabh1809/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
 
 
-# 📝 Recent Blog Posts
+## Blogs Posts 📝
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
 
