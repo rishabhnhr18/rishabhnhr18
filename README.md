@@ -41,9 +41,10 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 
 
 ## 📫 Connect With Me
-<a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a><a href="https://x.com/RishabhNhr18" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a><a href="https://medium.com/@rishabhnahar18" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+</a> <a href="https://x.com/RishabhNhr18" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> <a href="mailto:rishabhnahar18@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a> <a href="https://medium.com/@rishabhnahar18" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
 
