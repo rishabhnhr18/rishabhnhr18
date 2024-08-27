@@ -16,6 +16,8 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 - 💬 Ask me about **C, C++, Python, MySQL, Communication Skills**
 
 - 📫 How to reach me **rishabhnahar18@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-nahar-240422229/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.comRishabhNhr18)
+<details>
 
 - ⚡ Fun fact **Coder :)**
 
