@@ -39,6 +39,13 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&" alt="rishabhnhr18" /></p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+</center>
+
+
 
 ## 📫 Connect With Me
 <a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
