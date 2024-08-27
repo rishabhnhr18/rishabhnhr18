@@ -50,7 +50,10 @@ I'm particularly keen on working on real-world projects where I can apply my ski
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
  <a href="https://twitter.com/RishabhNhr18" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&labelColor=black&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://medium.com/@rishabhnahar18" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 </p>
 
