@@ -20,12 +20,9 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 - ⚡ Fun fact **Coder :)**
 
 ## 📝 Recent Blog Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/twitter/@RishabhNhr18/status/1790108528910168370"><img src="https://github-readme-medium-recent-article.vercel.app/twitter/@RishabhNhr18/0" alt="Recent Article 0">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/you-can-do-it-102d6f092b04"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
-
-  <p><em>August 27, 2024</em></p>
-  <p>In this blog post, I explore ways to stay motivated and overcome challenges. It's a mix of personal experiences and practical advice designed to inspire and encourage.</p>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
