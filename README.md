@@ -14,14 +14,6 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 
 - 📫 How to reach me @ **rishabhnahar18@gmail.com**
   
-
-## 📫 Connect With Me
-<p align="left">
-<a href="https://twitter.com/RishabhNhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RishabhNhr18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh-nahar-240422229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin/com/in/rishabh-nahar-240422229" height="30" width="40" /></a>
-<a href="https://medium.com/@rishabhnahar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhnahar18" height="30" width="40" /></a>
-</p>
-
 ## Tech Stack 💻 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -47,6 +39,13 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&" alt="rishabhnhr18" /></p>
 
 
+
+## 📫 Connect With Me
+<p align="left">
+<a href="https://twitter.com/RishabhNhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RishabhNhr18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabh-nahar-240422229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin/com/in/rishabh-nahar-240422229" height="30" width="40" /></a>
+<a href="https://medium.com/@rishabhnahar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhnahar18" height="30" width="40" /></a>
+</p>
 
 
 ## 📝 Recent Blog Posts
