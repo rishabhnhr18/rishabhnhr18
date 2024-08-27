@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a> </p>
 
+## Summary 📋
+<details>
 I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, also worked on Flutter and Firebase which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on Machine Learning, DSA, Problem Solving, MERN Stack Development.
 
 I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me!
