@@ -1,23 +1,18 @@
  <h1 align="center">Hi, I'm Rishabh Nahar <img align =right, width="50", src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"</h1>
 <h3 align="center">A Passionate Software Developer! Loves to Code </></h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhnhr18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a> </p>
-
 ## Summary 📋
-<details>
 I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, also worked on Flutter and Firebase which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on Machine Learning, DSA, Problem Solving, MERN Stack Development.
 
-I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me!
+I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me! <p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Flutter, Firebase, DSA**
 
-- 💬 Ask me about **C, C++, Python, MySQL, Communication Skills**
+- 💬 Ask me about **C, C++, Python, MySQL, Communication Skills, Java, DSA**
 
-- 📫 How to reach me **rishabhnahar18@gmail.com**
+- 📫 How to reach me @ **rishabhnahar18@gmail.com**
   
 ## 📫 Connect With Me
 
