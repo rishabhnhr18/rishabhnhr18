@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishabh Nahar</h1>
-<h3 align="center">A Passionate Developer! Loves to Code </></h3>
+ <h1 align="center">Hi, I'm Rishabh Nahar <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"</h1>
+<h3 align="center">A Passionate SOftware Developer! Loves to Code </></h3>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 
