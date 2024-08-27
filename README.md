@@ -21,10 +21,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 
 ## 📝 Recent Blog Posts
 
-### [You Can Do It](https://medium.com/@rishabhnahar18/you-can-do-it-102d6f092b04)
-*August 27, 2024*  
-In this post, I share insights and motivational tips on how to overcome challenges and achieve your goals. It's a blend of personal experiences and practical advice to help you stay motivated and focused.
-
+<p><img align="center" src="[https://medium.com/@rishabhnahar18/you-can-do-it-102d6f092b04]" alt="(https://medium.com/@rishabhnahar18)" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
