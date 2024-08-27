@@ -32,7 +32,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+![Git](https://img.shields.io/badge/<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">blue?style=for-the-badge&logo=git&logoColor=white)
 
 
 <h3 align="left">Languages and Tools:</h3>
