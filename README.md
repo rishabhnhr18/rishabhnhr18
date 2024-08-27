@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Rishabh Nahar <img align =right, width="50", src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"</h1>
 <h3 align="center">A Passionate Software Developer! Loves to Code </></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhnhr18" /> </p>
+
 
 ## Summary 📋
 I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, also worked on Flutter and Firebase which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on Machine Learning, DSA, Problem Solving, MERN Stack Development.
 
-I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me! <p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a> </p>
-
+I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me! <p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a><br></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhnhr18" /> </p>
 - 🌱 I’m currently learning **Java, Flutter, Firebase, DSA**
 
 - 💬 Ask me about **C, C++, Python, MySQL, Communication Skills, Java, DSA**
@@ -33,19 +33,12 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhnhr18&show_icons=true&locale=en&layout=compact" alt="rishabhnhr18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&" alt="rishabhnhr18" /></p>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=dark&hide_border=true&show_icons=true&title_color=blue&font_color=blue&&include_all_commits=false&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </center>
-
 
 
 ## 📫 Connect With Me
@@ -56,8 +49,6 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <a href="https://leetcode.com/u/rishabh1809/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
 
 
-
 ## 📝 Recent Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
-
 
