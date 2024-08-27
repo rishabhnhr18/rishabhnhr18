@@ -20,7 +20,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 - ⚡ Fun fact **Coder :)**
 
 ## 📝 Recent Blog Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/twitter/@RishabhNhr18/status/1790108528910168370"><img src="https://github-readme-medium-recent-article.vercel.app/twitter/@RishabhNhr18/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/X/@RishabhNhr18/status/1790108528910168370"><img src="https://github-readme-medium-recent-article.vercel.app/twitter/@RishabhNhr18/0" alt="Recent Article 0">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/you-can-do-it-102d6f092b04"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
 
