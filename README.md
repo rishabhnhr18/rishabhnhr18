@@ -3,7 +3,7 @@
 
 
 
-## Summary 📋
+# Summary 📋
 I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, also worked on Flutter and Firebase which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on Machine Learning, DSA, Problem Solving, MERN Stack Development.
 
 I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me! <p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a><br></p>
@@ -14,7 +14,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 
 - 📫 How to reach me @ **rishabhnahar18@gmail.com**
   
-## Tech Stack 💻 
+# Tech Stack 💻 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -41,7 +41,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 </center>
 
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 <a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/RishabhNhr18" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a> <a href="mailto:rishabhnahar18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://medium.com/@rishabhnahar18" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -49,6 +49,6 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <a href="https://leetcode.com/u/rishabh1809/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
 
 
-## 📝 Recent Blog Posts
+# 📝 Recent Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
 
