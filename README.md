@@ -21,10 +21,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 
 ## 📝 Recent Blog Posts
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style="margin-top: 0;"><a href="https://medium.com/@rishabhnahar18/you-can-do-it-102d6f092b04" target="_blank" rel="noopener noreferrer">You Can Do It</a></h3>
-    <a href="https://medium.com/@rishabhnahar18/you-can-do-it-102d6f092b04" target="_blank" rel="noopener noreferrer" style="color: #007bff; text-decoration: none; font-weight: bold;">Read more</a>
-</div>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/you-can-do-it-102d6f092b04"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
 
   <p><em>August 27, 2024</em></p>
   <p>In this blog post, I explore ways to stay motivated and overcome challenges. It's a mix of personal experiences and practical advice designed to inspire and encourage.</p>
