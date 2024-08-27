@@ -45,6 +45,11 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <a href="https://twitter.com/RishabhNhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RishabhNhr18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishabh-nahar-240422229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin/com/in/rishabh-nahar-240422229" height="30" width="40" /></a>
 <a href="https://medium.com/@rishabhnahar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhnahar18" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+ 
 </p>
 
 
