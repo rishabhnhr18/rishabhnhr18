@@ -6,6 +6,7 @@ I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm
 
 I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me! <p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a><br></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhnhr18" /> </p>
+
 - 🌱 I’m currently learning **Java, Flutter, Firebase, DSA**
 
 - 💬 Ask me about **C, C++, Python, MySQL, Communication Skills, Java, DSA**
