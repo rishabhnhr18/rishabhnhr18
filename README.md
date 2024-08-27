@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I'm Rishabh Nahar <img align =right, width="50", src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"</h1>
 <h3 align="center">A Passionate Software Developer! Loves to Code </></h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhnhr18" /> </p>
@@ -11,7 +11,7 @@ I’m a Final year Student @ Ujjain Engineering College with a strong enthusiasm
 
 I'm particularly keen on working on real-world projects where I can apply my skills, challenge myself, and continue to evolve as a developer. If you're open to collaboration or have any intriguing projects, feel free to connect with me!
 
-- 🌱 I’m currently learning **Java, Flutter, Firebase**
+- 🌱 I’m currently learning **Java, Flutter, Firebase, DSA**
 
 - 💬 Ask me about **C, C++, Python, MySQL, Communication Skills**
 
@@ -20,9 +20,7 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 - ⚡ Fun fact **Coder :)**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+(https://medium.com/@rishabhnahar18/you-can-do-it-102d6f092b04)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishabhnhr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhnhr18" height="30" width="40" /></a>
