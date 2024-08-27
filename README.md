@@ -22,17 +22,12 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <a href="https://medium.com/@rishabhnahar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabhnahar18" height="30" width="40" /></a>
 </p>
 
-## 📝 Recent Blog Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
-
-
-
-
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)  
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -47,3 +42,11 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhnhr18&show_icons=true&locale=en&layout=compact" alt="rishabhnhr18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&" alt="rishabhnhr18" /></p>
+
+
+
+
+## 📝 Recent Blog Posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Article 0">
+
+
