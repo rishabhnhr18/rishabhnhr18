@@ -35,6 +35,11 @@ I'm particularly keen on working on real-world projects where I can apply my ski
 # GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=dark&hide_border=true&show_icons=true&title_color=blue&font_color=blue&&include_all_commits=false&count_private=true)
 <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhnhr18&theme=github_dark)
+<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhnhr18&theme=github_dark&utcOffset=8)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </center>
