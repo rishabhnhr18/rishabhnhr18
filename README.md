@@ -2,12 +2,12 @@
 <h3 align="center"> A Passionate Aspiring Software Developer, loves to Code.. </h3>
 
 # Summary 📋
-I’m a Final year Student with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, also worked on Flutter and Firebase which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on DSA, Problem Solving, React and NodeJs Development.
+I’m a Final year Student with a strong enthusiasm for exploring and implementing new technologies in practical scenarios. I've worked and have solid proficiency in C, C++, Java, which has indeed given me a robust foundation in software development and has increased my horizons. Currently focused on DSA, Problem Solving, React, NodeJs Development and Machine Learning.
 
 I'm love to work on  real-world projects where I can apply my skills, continue to evolve as a developer.<p align="left"> <a href="https://twitter.com/rishabhnhr18" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=for-the-badge" alt="rishabhnhr18" /></a><br></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhnhr18" /> </p>
 
-- 🌱 I’m currently learning **Java, Flutter, Firebase, DSA**
+- 🌱 I’m currently learning **Python, Machine Learning, DSA**
 
 - 💬 Ask me about **C, C++, Python, MySQL, Communication Skills, Java, DSA**
 
