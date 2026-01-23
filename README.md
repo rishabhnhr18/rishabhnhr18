@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png)
 
 <h1 align="center">Hi, I'm Rishabh Nahar <img align =right, width="50", src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif"</h1>
 <h3 align="center"> A Passionate Aspiring Software Developer & AI ML Enthusiast, loves to Code.. </h3>
