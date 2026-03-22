@@ -1,18 +1,18 @@
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishabh%20Nahar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rishabh%20Nahar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Problem%20Solver&amp;descAlignY=55&amp;descSize=16" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rishabh+Nahar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;DSA+%7C+Problem+Solving+%7C+Open+Source;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hey+there!+I'm+Rishabh+Nahar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;DSA+%7C+Problem+Solving+%7C+Open+Source;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Socials -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
   &nbsp;
-  <a href="https://twitter.com/rishabhnhr18"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow"/></a>
+  <a href="https://twitter.com/rishabhnhr18"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&amp;style=flat-square&amp;color=1DA1F2" alt="Twitter Follow"/></a>
 </p>
 
 ---
@@ -80,18 +80,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18&amp;theme=tokyonight&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;count_private=true" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhnhr18&amp;theme=tokyonight&amp;hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhnhr18&theme=tokyonight" width="90%" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhnhr18&amp;theme=tokyonight" width="90%" alt="Profile Details"/>
 </div>
 
 ---
@@ -99,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhnhr18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhnhr18&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;margin-w=6&amp;row=1" width="100%" alt="Trophies"/>
 </div>
 
 ---
@@ -115,7 +115,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnhr18&bg_color=1a1b27&color=628fdb&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnhr18&amp;bg_color=1a1b27&amp;color=628fdb&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -124,27 +124,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabh-nahar-240422229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://x.com/RishabhNhr18" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="X"/>
   </a>
   &nbsp;
   <a href="mailto:rishabhnhr18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
   <a href="https://medium.com/@rishabhnahar18" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium"/>
   </a>
   &nbsp;
   <a href="https://github.com/rishabhnhr18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/rishabh1809/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode"/>
   </a>
 </p>
 
@@ -164,5 +164,5 @@
   <br/>
   <em><b>I love connecting with different people</b> — if you want to say hi, I'll be happy to meet you! 😊</em>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
 </div>
