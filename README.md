@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rishabh%20Nahar&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Problem%20Solver&amp;descAlignY=55&amp;descSize=16" width="100%"/>
+  <img src="./github-header-banner.png" width="100%" alt="Rishabh Nahar - Software Developer | AI &amp; ML Enthusiast | Problem Solver"/>
 </div>
 
 <!-- Typing SVG -->
