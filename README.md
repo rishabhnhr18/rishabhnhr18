@@ -36,7 +36,7 @@
 
 📝 I write tech articles on [Medium](https://medium.com/@rishabhnahar18)
 
-📫 Reach me at **rishabhnahar18@gmail.com**
+📫 Reach me at **rishabhnhr18@gmail.com**
 
 ⚡ Fun fact: *I turn caffeine into code!* ☕
 
@@ -131,7 +131,7 @@
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
   &nbsp;
-  <a href="mailto:rishabhnahar18@gmail.com" target="_blank">
+  <a href="mailto:rishabhnhr18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
