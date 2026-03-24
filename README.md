@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=700&height=55&lines=🚀+Hey%2C+I'm+Rishabh+Nahar!;💡+Full+Stack+Developer+%7C+AI+%26+ML+Explorer;🏆+DSA+Enthusiast+%7C+Open+Source+Contributor;⚡+Turning+Ideas+into+Reality..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=700&height=55&lines=%F0%9F%9A%80+Hey%2C+I%27m+Rishabh+Nahar%21;%F0%9F%92%A1+Full+Stack+Developer+%7C+AI+%26+ML+Explorer;%F0%9F%8F%86+DSA+Enthusiast+%7C+Open+Source+Contributor;%E2%9A%A1+Turning+Ideas+into+Reality..." alt="Typing SVG" />
 </p>
 
 <!-- Social Badges Row -->
@@ -49,7 +49,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="330" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 
 </td>
 </tr>
@@ -114,7 +114,7 @@
 
 <!-- Currently Working On Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=500&lines=📌+Currently+Working+On...;🔬+Machine+Learning+Projects;📊+DSA+%26+Competitive+Programming;🌐+Full-Stack+Web+Apps" alt="Currently Working" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=500&lines=%F0%9F%93%8C+Currently+Working+On...;%F0%9F%94%AC+Machine+Learning+Projects;%F0%9F%93%8A+DSA+%26+Competitive+Programming;%F0%9F%8C%90+Full-Stack+Web+Apps" alt="Currently Working" />
 </div>
 
 <br/>
@@ -125,21 +125,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=radical&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=E2E8F0&border_color=7c3aed" height="185" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=radical&hide_border=false&layout=compact&count_private=true&border_radius=10&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&border_color=7c3aed" height="185" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rishabhnhr18&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=A855F7&fire=E100FF&currStreakLabel=22D3EE&border=7c3aed&sideLabels=E2E8F0&sideNums=A855F7&currStreakNum=E100FF&dates=6B7280" width="68%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rishabhnhr18&theme=tokyonight&hide_border=true" width="68%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhnhr18&theme=radical" width="90%" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhnhr18&theme=tokyonight" width="90%" alt="Profile Details"/>
 </div>
 
 <br/>
@@ -147,7 +147,7 @@
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhnhr18&theme=radical&no-frame=false&no-bg=true&column=6&margin-w=10&margin-h=10" width="95%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhnhr18&theme=tokyonight&no-frame=false&no-bg=true&column=6&margin-w=10&margin-h=10" width="95%" alt="Trophies"/>
 </div>
 
 <br/>
@@ -167,7 +167,7 @@
 <!-- ═══════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnhr18&bg_color=0D1117&color=A855F7&line=7c3aed&point=E100FF&area=true&hide_border=false&border_color=7c3aed&area_color=7c3aed" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhnhr18&bg_color=1a1b27&color=628fdb&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -213,7 +213,7 @@
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Dev Quote"/>
 </div>
 
 <br/>
