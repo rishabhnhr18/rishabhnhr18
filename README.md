@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github-header-banner.png" width="100%" alt="Rishabh Nahar Banner"/>
+  <img src="./github-header-banner.png" width="100%" alt="Rishabh Nahar - Software Developer | AI &amp; ML Enthusiast | Problem Solver"/>
 </div>
 
 <div align="center">
@@ -52,7 +52,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <sub><b>Default GitHub Readme Stats (requested)</b></sub><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18" height="170" alt="GitHub Stats Classic"/>
+  <br/><br/>
+  <sub><b>Themed Stats + Language Breakdown</b></sub><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats Themed"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170" alt="Top Languages"/>
 </div>
@@ -104,7 +107,7 @@
 
 ---
 
-## 📝 Latest Blog Post
+## 📝 Latest Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@rishabhnahar18/0" alt="Recent Medium Article" width="100%">
