@@ -52,10 +52,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <sub><b>Default GitHub Readme Stats (requested)</b></sub><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18" height="170" alt="GitHub Stats Classic"/>
-  <br/><br/>
-  <sub><b>Themed Stats + Language Breakdown</b></sub><br/>
+  <sub><b>Statistics</b></sub><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=rishabhnhr18&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats Themed"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhnhr18&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170" alt="Top Languages"/>
 </div>
