@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhnhr18&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <a href="https://twitter.com/rishabhnhr18"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter"/></a>
+  <!-- <a href="https://twitter.com/rishabhnhr18"><img src="https://img.shields.io/twitter/follow/rishabhnhr18?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter"/></a> -->
 </div>
 
 ---
